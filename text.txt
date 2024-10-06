@@ -1,2 +1,2 @@
-hello
-SNU 2019-13988
+hello 123
+SNU kdy
